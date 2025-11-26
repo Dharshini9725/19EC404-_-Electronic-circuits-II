@@ -1,6 +1,4 @@
-<img width="1017" height="1280" alt="image" src="https://github.com/user-attachments/assets/28e9974a-e259-4400-97ee-d345f80c5a40" /><img width="1017" height="1280" alt="image" src="https://github.com/user-attachments/assets/b1013ff6-870f-425b-9098-e0bd00b5a63f" /><img width="1017" height="1280" alt="image" src="https://github.com/user-attachments/assets/0fd9b840-4ace-45b6-ac84-09d0f727ca0f" />## Exp. No. 5
-**Date:**  
-
+## Exp. No. 5
 ## POSITIVE AND NEGATIVE CLAMPER CIRCUITS
 
 # Circuit Diagram 
@@ -13,12 +11,13 @@
 
 
 # Tabulation
+
 ![WhatsApp Image 2025-11-23 at 13 18 10_1f0408fd](https://github.com/user-attachments/assets/182e43d7-b4ec-46e3-87d5-a3610ba81ba6)
 
 # Graph
 
-
 <img width="1017" height="1280" alt="image" src="https://github.com/user-attachments/assets/90231baf-2e5a-4f1a-a289-476c1bf881f5" />
+<img width="913" height="1280" alt="image" src="https://github.com/user-attachments/assets/4d7fed1d-eac0-496f-98d6-cfb5a2bc6eff" />
 
 # Result
 
