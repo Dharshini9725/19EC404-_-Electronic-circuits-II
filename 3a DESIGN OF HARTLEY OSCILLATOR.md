@@ -16,11 +16,13 @@
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
 |   10.50 v         |     2.384 ms         |        419 KHz              |           50 KHz             |
-<img width="806" height="1043" alt="image" src="https://github.com/user-attachments/assets/4416dc7b-22fd-4247-b651-00e96be89be5" />
+<img width="1898" height="848" alt="image" src="https://github.com/user-attachments/assets/9ca5b3d4-369b-449f-96a9-44b78d292fec" />
 
 
 # Graph
-<img width="1898" height="848" alt="image" src="https://github.com/user-attachments/assets/1bfe68c7-d287-49b3-9f2d-4bbaef0bbd67" />
+<img width="806" height="1043" alt="image" src="https://github.com/user-attachments/assets/1149c556-4d64-4298-aa6c-888a412e776c" />
+
+
 
 # Result
 
